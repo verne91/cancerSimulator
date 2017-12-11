@@ -1,7 +1,7 @@
 A model to simulate cancer progression. It supports dyanmic randome parameters and multiple subpopulations.
 ```
 Usage:
-        python model8.py [-h] [-a ALPHA] [-c INIT_CELL_NUM]
+python model8.py [-h] [-a ALPHA] [-c INIT_CELL_NUM]
                  [-M MUT_RATE | -m MUT_RATE_RANGE_START MUT_RATE_RANGE_END]                 
                  [-d DRIVER_GENE_NUM] [-g MAX_MUT_GENE_NUM]                
                  [-S MUT_SEL_ADV | -s SEL_ADV_RANGE_START SEL_ADV_RANGE_END]                
